@@ -2,7 +2,7 @@
 Trigonometry is a fascinating branch of mathematics that deals with angles, triangles, and periodic functions. Here are some fundamental chapters or topics commonly covered in trigonometry:
 
 * **1. [Introduction to Trigonometry](./Introduction_to_Trigonometry.ipynb) –** Basics of angles, trigonometric ratios, and their applications.
-* **2. Trigonometric Functions –** Sine, cosine, tangent, secant, cosecant, and cotangent functions.
+* **2. [Trigonometric Functions](./Trigonometric_Functions.ipynb) –** Sine, cosine, tangent, secant, cosecant, and cotangent functions.
 * **3. Trigonometric Identities –** Important identities like Pythagorean identities, sum and difference formulas, double angle and half-angle identities.
 * **4. Graphs of Trigonometric Functions –** Plotting sine, cosine, and tangent functions and understanding their periodic behavior.
 * **5. Inverse Trigonometric Functions –** Properties and applications of arc sine, arc cosine, and arc tangent functions.
