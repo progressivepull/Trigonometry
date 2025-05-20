@@ -5,7 +5,7 @@ Trigonometry is a fascinating branch of mathematics that deals with angles, tria
 * **2. [Trigonometric Functions](./Trigonometric_Functions.ipynb) –** Sine, cosine, tangent, secant, cosecant, and cotangent functions.
 * **3. [Trigonometric Identities](./Trigonometric_Identities.ipynb) –** Important identities like Pythagorean identities, sum and difference formulas, double angle and half-angle identities.
 * **4. [Graphs of Trigonometric Functions](./Graphs_of_Trigonometric_Functions.ipynb) –** Plotting sine, cosine, and tangent functions and understanding their periodic behavior.
-* **5. Inverse Trigonometric Functions –** Properties and applications of arc sine, arc cosine, and arc tangent functions.
+* **5. [Inverse Trigonometric Functions](./Inverse_Trigonometric_Functions.ipynb) –** Properties and applications of arc sine, arc cosine, and arc tangent functions.
 * **6. Trigonometric Equations –** Solving equations using trigonometric identities and inverse functions.
 * **7. Applications of Trigonometry –** Real-world problems involving heights, distances, and navigation.
 * **8. Law of Sines and Law of Cosines –** Using trigonometry in non-right triangles.
