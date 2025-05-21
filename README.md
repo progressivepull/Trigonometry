@@ -12,4 +12,4 @@ Trigonometry is a fascinating branch of mathematics that deals with angles, tria
 * **9. [Complex Numbers and Trigonometry](./Complex_Numbers_and_Trigonometry.ipynb) –** Euler’s formula, De Moivre’s theorem, and their applications.
 * **10. [Polar Coordinates and Parametric Equations](./Polar_Coordinates_and_Parametric_Equations.ipynb) –** Representing points and functions in polar form.
 * **11. [Vectors and Trigonometry](./Vectors_and_Trigonometry.ipynb) –** Understanding dot product, cross product, and vector projections.
-* **12. Periodic Functions and Harmonic Motion –** Applications in physics and engineering.
+* **12. [Periodic Functions and Harmonic Motion](./Periodic_Functions_and_Harmonic_Motion.ipynb) –** Applications in physics and engineering.
