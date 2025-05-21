@@ -10,6 +10,6 @@ Trigonometry is a fascinating branch of mathematics that deals with angles, tria
 * **7. [Applications of Trigonometry](./Applications_of_Trigonometry.ipynb) –** Real-world problems involving heights, distances, and navigation.
 * **8. [Law of Sines and Law of Cosines](./Law_of_Sines_and_Law_of_Cosines.ipynb) –** Using trigonometry in non-right triangles.
 * **9. [Complex Numbers and Trigonometry](./Complex_Numbers_and_Trigonometry.ipynb) –** Euler’s formula, De Moivre’s theorem, and their applications.
-* **10. Polar Coordinates and Parametric Equations –** Representing points and functions in polar form.
+* **10. [Polar Coordinates and Parametric Equations](./Polar_Coordinates_and_Parametric_Equations.ipynb) –** Representing points and functions in polar form.
 * **11. Vectors and Trigonometry –** Understanding dot product, cross product, and vector projections.
 * **12. Periodic Functions and Harmonic Motion –** Applications in physics and engineering.
