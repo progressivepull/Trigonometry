@@ -8,7 +8,7 @@ Trigonometry is a fascinating branch of mathematics that deals with angles, tria
 * **5. [Inverse Trigonometric Functions](./Inverse_Trigonometric_Functions.ipynb) –** Properties and applications of arc sine, arc cosine, and arc tangent functions.
 * **6. [Trigonometric Equations](./Trigonometric_Equations.ipynb) –** Solving equations using trigonometric identities and inverse functions.
 * **7. [Applications of Trigonometry](./Applications_of_Trigonometry.ipynb) –** Real-world problems involving heights, distances, and navigation.
-* **8. Law of Sines and Law of Cosines –** Using trigonometry in non-right triangles.
+* **8. [Law of Sines and Law of Cosines](./Law_of_Sines_and_Law_of_Cosines.ipynb) –** Using trigonometry in non-right triangles.
 * **9. Complex Numbers and Trigonometry –** Euler’s formula, De Moivre’s theorem, and their applications.
 * **10. Polar Coordinates and Parametric Equations –** Representing points and functions in polar form.
 * **11. Vectors and Trigonometry –** Understanding dot product, cross product, and vector projections.
